@@ -4,13 +4,13 @@ This is my first project on Software Carpentryology. It contains great software
 ## Usage
 Description
 
-### First tool
+### First Tool
 description of first tool
 
-### Second tool
+### Second Tool
 description of second tool
 
-### Third tool
+### Third Tool
 description of fancy new tool
 
 ## ToDo
