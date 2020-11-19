@@ -1,5 +1,5 @@
 # Firstproject
-This is my first project on Software Carpentryology. It contains great software
+This is my first project on Software Carpentryology. It contains great software.
 
 ## Usage
 Description
